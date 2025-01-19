@@ -115,8 +115,6 @@ QRNN Output: A bar chart showing the values from the QRNN's hidden layer.
 Weight Distribution: A histogram showing the distribution of weights after training.
 Activation Heatmap: A heatmap visualizing the activations of QRNN neurons during a forward pass.
 
-License
-This project is licensed under the MIT License. Feel free to use and modify the code.
 
 
 
